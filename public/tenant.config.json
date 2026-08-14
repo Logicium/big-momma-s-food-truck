@@ -1,38 +1,202 @@
 {
-  "_note": "This file is overwritten by the Apotome provisioning service during site generation. Edit your live content from /admin.",
+  "_generated": "2026-08-14T16:48:55.382Z",
   "archetype": "mesa",
-  "brand": "The Mesa Restaurant",
-  "tagline": "Fresh, Local, Unforgettable",
-  "blurb": "A warm gathering place where every dish tells a story.",
-  "theme": "earth",
-  "swatch": "default",
-  "variant": "classic",
+  "brand": "Big Momma's Food Truck",
+  "tagline": "Comfort food that moves you.",
+  "blurb": "Big Momma's Food Truck serves up soulful, home-style comfort food on the go, bringing you convenient, hearty meals that taste just like grandma used to make.",
+  "theme": "vibrant",
+  "swatch": "saffron-dark",
+  "variant": "essentials",
   "contact": {
-    "address": "123 Main St, Trinidad, CO 81082",
-    "phone": "(719) 555-0100",
-    "email": "hello@example.com",
+    "address": "123 Fake Street",
+    "phone": "9407651403",
+    "email": "zackleejohnston@gmail.com",
     "mapEmbedUrl": ""
   },
+  "story": {
+    "title": "Meet Big Momma",
+    "paragraphs": [
+      "Big Momma's Food Truck was born from a simple idea: bringing the incredible, soul-satisfying comfort food we grew up with straight to you. Inspired by the legendary cooking of our own 'Big Momma,' every dish is packed with the kind of love, flavor, and generous portions that make you feel right at home. We're here to serve up delicious, no-fuss meals that satisfy your cravings and bring a little joy to your day, wherever we roll.",
+      ""
+    ],
+    "facts": [
+      {
+        "label": "Founded",
+        "value": "2019"
+      },
+      {
+        "label": "Summoned",
+        "value": "2021"
+      },
+      {
+        "label": "",
+        "value": ""
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Amazing!",
+      "author": "Dave R. ",
+      "source": "Somewhere in CO"
+    },
+    {
+      "quote": "I need this everyday!",
+      "author": "Marty T.",
+      "source": "allegedly still there"
+    },
+    {
+      "quote": "I love Big Momma!",
+      "author": "Kevin B. ",
+      "source": "reformed"
+    }
+  ],
+  "social": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/choppermountain/"
+    },
+    {
+      "label": "Facebook",
+      "href": ""
+    }
+  ],
   "hours": [
-    { "day": "Mon–Thu", "open": "11am – 9pm" },
-    { "day": "Fri–Sat", "open": "11am – 10pm" },
-    { "day": "Sunday", "open": "Closed" }
+    {
+      "day": "Monday - Thursday",
+      "open": "Closed"
+    },
+    {
+      "day": "Friday-Sunday",
+      "open": "4pm to 2am"
+    },
+    {
+      "day": "",
+      "open": ""
+    },
+    {
+      "day": "",
+      "open": ""
+    }
   ],
   "photos": {
-    "hero": { "src": "/images/hero.jpg", "alt": "Restaurant interior" },
-    "about": { "src": "/images/about.jpg", "alt": "Chef at work" },
-    "gallery": []
-  },
-  "story": {
-    "title": "Our Story",
-    "paragraphs": ["A neighborhood restaurant with roots in the community."],
-    "facts": []
+    "hero": {
+      "src": "/photos/hero.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    "about": {
+      "src": "/photos/about.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    "gallery": [
+      {
+        "src": "/photos/gallery-01.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-02.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-03.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-04.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-05.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-06.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-07.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-08.jpg",
+        "alt": "",
+        "caption": ""
+      }
+    ]
   },
   "menu": {
-    "intro": "",
-    "categories": [],
-    "fullMenuUrl": ""
-  },
-  "testimonials": [],
-  "social": []
+    "intro": "Big Momma's",
+    "fullMenuUrl": "",
+    "categories": [
+      {
+        "name": "Small plates",
+        "description": "",
+        "items": [
+          {
+            "name": "Jambalaya",
+            "description": "Taste the soul of Louisiana with Big Momma's Jambalaya small plate. This savory medley of rice, tender chicken, and spicy sausage is seasoned to perfection.",
+            "price": "$37",
+            "tags": []
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Mains",
+        "description": "",
+        "items": [
+          {
+            "name": "Corn Bread",
+            "description": "Taste the homemade goodness in every slice of Big Momma's moist, golden Corn Bread. It's the ultimate sweet-and-savory comfort, perfect for a hearty bite or to complete your plate.",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Dessert",
+        "description": "",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  }
 }
